@@ -1,0 +1,13 @@
+.social i{
+    color: black;
+    margin: 5px;
+    padding: 5px;
+
+}
+.social i:hover{
+    color:red;
+}
+.body{
+    background-color: #fef6e4;
+    color: #172c66;
+}

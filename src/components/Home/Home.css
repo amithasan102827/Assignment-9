@@ -1,0 +1,26 @@
+.ui.masthead {
+    padding: 15%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../images/notebook-gd20171f17_1920.jpg') !important;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+
+  .background-image-2{
+    padding: 12%;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../../images/background.png') !important;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
